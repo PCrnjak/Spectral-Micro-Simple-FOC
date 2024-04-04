@@ -1,2 +1,7 @@
 # Spectral-Micro-Simple-FOC-
-Spectral Micro Simple FOC examples
+
+
+SimpleFOC examples for Spectral micro BLDC.
+More info: [DOCS](https://source-robotics.github.io/Spectral-BLDC-docs/Guides/SIMPLEFOC%20guide/)
+
+
