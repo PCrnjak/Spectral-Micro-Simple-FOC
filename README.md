@@ -1,4 +1,4 @@
-# Spectral-Micro-Simple-FOC-
+# Spectral-Micro-Simple-FOC
 
 
 SimpleFOC examples for Spectral micro BLDC.
