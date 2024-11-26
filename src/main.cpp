@@ -40,7 +40,7 @@ BLDCMotor motor = BLDCMotor(11);
 BLDCDriver3PWM driver = BLDCDriver3PWM(PWM_CH1, PWM_CH2, PWM_CH3);
 
 // target voltage,speed or positon
-float target = 60;
+float target = 6;
 
 void Init_pins();
 
